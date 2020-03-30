@@ -20,7 +20,7 @@ user_pref("app.update.lastUpdateTime.telemetry_modules_ping", 1585138815);
 user_pref("app.update.lastUpdateTime.xpi-signature-verification", 1585564006);
 user_pref("browser.bookmarks.restore_default_bookmarks", false);
 user_pref("browser.cache.disk.amount_written", 187324);
-user_pref("browser.cache.disk.capacity", 450560);
+user_pref("browser.cache.disk.capacity", 440320);
 user_pref("browser.cache.disk.filesystem_reported", 1);
 user_pref("browser.contentblocking.category", "standard");
 user_pref("browser.download.panel.shown", true);

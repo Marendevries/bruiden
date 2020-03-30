@@ -29,7 +29,7 @@ www.google.nl:HSTS	0	18333	1615552408291,1,0,2
 avatars1.githubusercontent.com:HSTS	0	18333	1615563316295,1,0,2
 avatars3.githubusercontent.com:HSTS	0	18351	1617126749430,1,0,2
 api.github.com:HSTS	1	18351	1617105159271,1,1,2
-github.com:HSTS	1	18351	1617105159465,1,1,2
+github.com:HSTS	1	18351	1617105473899,1,1,2
 um.simpli.fi:HSTS	1	18340	1647694553237,1,1,2
 versioncheck-bg.addons.mozilla.org:HSTS	14	18351	1585564547208,1,0,2
 ads-sanoma.adhese.com:HSTS	0	18340	1600347349477,1,1,2

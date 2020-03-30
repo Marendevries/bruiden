@@ -65,3 +65,28 @@ git config --global user.name "Marendevries"
 https://github.com/Marendevries/Marendevries
 git clone https://github.com/Marendevries/Marendevries
 git push websites/student to https://github.com/Marendevries/Marendevries
+apt-get install git
+# apt-get install git
+$ git init
+git init
+git add
+git add .
+git commit -m "First commit"
+git remote add origin remote repository URL
+git remote -v
+git remote 
+git remote add origin remote repository https://github.com/Marendevries/Marendevries
+git push origin master
+git push Marendevries master
+push remote add Marendevries remote repository https://github.com/Marendevries/Marendevries
+git push /home/student/.git/ to https://github.com/Marendevries/Marendevries
+git remote get-url --add Marendevries
+--push
+git remote get-url --all Marendevries
+git remote get-url --all /home/student/.git/
+pwd
+cd /home/student/.git/
+ls
+git innit
+innit
+git -- help

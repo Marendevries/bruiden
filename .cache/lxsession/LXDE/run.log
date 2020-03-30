@@ -732,3 +732,15 @@ lxterminal
 (lxpanel:806): Wnck-WARNING **: 13:51:48.549: Unhandled action type _OB_WM_ACTION_UNDECORATE
 
 (lxpanel:806): Wnck-WARNING **: 13:51:48.550: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:54:38.579: Unhandled action type _OB_WM_ACTION_UNDECORATE
+lxterminal
+
+(lxterminal:2980): dbind-WARNING **: 14:09:39.669: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(lxpanel:806): Wnck-WARNING **: 14:09:39.766: Unhandled action type _OB_WM_ACTION_UNDECORATE
+lxterminal
+
+(lxterminal:3004): dbind-WARNING **: 14:15:24.582: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(lxpanel:806): Wnck-WARNING **: 14:15:24.679: Unhandled action type _OB_WM_ACTION_UNDECORATE
