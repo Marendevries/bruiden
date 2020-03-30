@@ -1,0 +1,14 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/student/websites/Webdev-PHP/.idea/Webdev-PHP.iml" timestamp="1582894613906" />
+    <file path="/home/student/websites/Webdev-PHP/.idea/dataSources.local.xml" timestamp="1582895101850" />
+    <file path="/home/student/websites/Webdev-PHP/.idea/workspace.xml" timestamp="1583499967595" />
+    <file path="/home/student/websites/Webdev-PHP/.idea/modules.xml" timestamp="1582894613942" />
+    <file path="/home/student/websites/Webdev-PHP/.idea/vcs.xml" timestamp="1582894613930" />
+    <file path="/home/student/websites/Webdev-PHP/.idea/misc.xml" timestamp="1582894613918" />
+    <file path="/home/student/websites/Webdev-PHP/.idea/dataSources.xml" timestamp="1582894703406" />
+  </project-files>
+</conversion>

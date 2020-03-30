@@ -1,0 +1,90 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PhpstormProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1VTMrSQOeKkjqaYk1viPWcu8HGo">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752332914" />
+              <frame x="-2" y="-1" width="1924" height="1057" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1577283699376" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/websites/untitled">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YR8NnTYKRaFX3WLnLZZNRzRLmn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752310166" />
+              <frame x="-2" y="-1" width="1924" height="916" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1582894034207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/websites/Webdev-PHP">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YR8iat8ilfalnyuqk60NQ3AR1S">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752326373" />
+              <frame x="-2" y="-1" width="1924" height="916" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1583500891845" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1Ykz6fE5NSd52A77ssVfr43gzzl">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752309605" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1583501206174" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Happy brides">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1Ykz9Hvkiw6jmcEcZo71uFtnI57">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752309605" />
+              <frame x="-2" y="-1" width="1924" height="927" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1583501226260" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/websites/student">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1VTjUSgKJT6Ho1s3sqymhJWIpY9">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752336361" />
+              <frame x="-2" y="-1" width="1924" height="1057" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1585563641710" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/websites" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/websites/student" />
+        <option value="$USER_HOME$/Desktop/Happy brides" />
+        <option value="$USER_HOME$/Desktop" />
+        <option value="$USER_HOME$/websites/Webdev-PHP" />
+        <option value="$USER_HOME$/websites/untitled" />
+        <option value="$USER_HOME$/PhpstormProjects/untitled" />
+      </list>
+    </option>
+  </component>
+</application>

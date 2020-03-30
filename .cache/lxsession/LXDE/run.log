@@ -1,0 +1,734 @@
+** Message: 12:20:20.809: environement.vala:58: Exporting primary_variable
+** Message: 12:20:20.809: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 12:20:20.809: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: 12:20:20.809: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 12:20:20.809: environement.vala:218: custom_data :/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:
+** Message: 12:20:20.809: environement.vala:219: data_dirs :/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 12:20:20.809: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 12:20:20.809: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 12:20:20.809: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+** Message: 12:20:20.809: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 12:20:20.809: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “iGtk/ColorScheme” in group “GTK”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “windows_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “panel/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “dock/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “file_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “desktop_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “launcher_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “composite_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “im1/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “im2/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “widget1/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “notification/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “keybindings/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “im_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “screensaver/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “power_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “audio_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “workspace_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “screenshot_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “message_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “upgrade_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “updates_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “updates_manager/timeout” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “crash_manager/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “crash_manager/dev_mode” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “crash_manager/timeout” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “upstart_user_session” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “proxy_manager/http” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “a11y/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “xrandr/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “network_gui/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “webbrowser/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “email/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “pdf_reader/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “video_player/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “audio_player/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “images_display/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “text_editor/command” in group “Session”
+** Message: 12:20:20.810: settings.vala:540: Key file does not have key “archive/command” in group “Session”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “charmap/command” in group “Session”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “calculator/command” in group “Session”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “spreadsheet/command” in group “Session”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “bittorent/command” in group “Session”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “document/command” in group “Session”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “webcam/command” in group “Session”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “burn/command” in group “Session”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “notes/command” in group “Session”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “disk_utility/command” in group “Session”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “tasks/command” in group “Session”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have group “Keymap”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “laptop_mode” in group “State”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “gnome” in group “Dbus”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “type” in group “Environment”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “ubuntu_menuproxy” in group “Environment”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “toolkit_integration” in group “Environment”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “gtk/overlay_scrollbar_disable” in group “Environment”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “qt/force_theme” in group “Environment”
+** Message: 12:20:20.811: settings.vala:540: Key file does not have key “qt/platform” in group “Environment”
+** Message: 12:20:20.811: settings.vala:462: Monitoring: /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 12:20:20.811: settings.vala:470: Desktop file is not in config home, monitoring creation of it
+** Message: 12:20:20.811: settings.vala:485: Monitoring home path: /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 12:20:20.811: settings.vala:373: Settings default for Session, windows_manager, command : openbox
+** Message: 12:20:20.811: settings.vala:373: Settings default for Session, windows_manager, session : LXDE
+** Message: 12:20:20.811: settings.vala:373: Settings default for Session, launcher_manager, command : lxpanelctl
+** Message: 12:20:20.811: environement.vala:79: Exporting variable
+** Message: 12:20:20.811: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 12:20:20.811: environement.vala:177: custom_config :
+** Message: 12:20:20.811: environement.vala:178: config_dirs :/etc/xdg
+** Message: 12:20:20.811: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: 12:20:20.811: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 12:20:20.811: environement.vala:218: custom_data :
+** Message: 12:20:20.811: environement.vala:219: data_dirs :/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 12:20:20.811: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 12:20:20.811: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 12:20:20.811: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+** Message: 12:20:20.811: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 12:20:20.811: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 12:20:20.811: environement.vala:254: No entry in [Environment_variable]. Key file does not have group “Environment_variable”
+** Message: 12:20:20.812: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+** Message: 12:20:20.812: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/conffiles.conf
+** Message: 12:20:20.812: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/conffiles.conf
+** Message: 12:20:20.813: options.vala:164: Activate xsettings_manager build-in
+** Message: 12:20:20.813: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+** Message: 12:20:20.813: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 12:20:20.813: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/desktop.conf
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: 12:20:20.816: app.vala:721: polkit separate
+** Message: 12:20:20.816: app.vala:721: polkit separate
+** Message: 12:20:20.818: app.vala:76: Launching lxpolkit 
+** Message: 12:20:20.818: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+** Message: 12:20:20.818: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/autostart
+** Message: 12:20:20.818: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/autostart
+** Message: 12:20:20.818: autostart.vala:42: Autostart path : /etc/xdg/lxsession/LXDE/autostart
+** Message: 12:20:20.824: app.vala:76: Launching lxpanel 
+** Message: 12:20:20.828: app.vala:76: Launching pcmanfm 
+
+** (lxsession:731): WARNING **: 12:20:20.829: app.vala:86: Failed to execute child process “xscreensaver” (No such file or directory)
+
+** (lxsession:731): WARNING **: 12:20:20.829: app.vala:87: Error when launching xscreensaver
+** Message: 12:20:20.837: options.vala:107: Create build-in Clipboard
+** Message: 12:20:20.844: main.vala:441: Check keymap_mode (null)
+** Message: 12:20:20.856: app.vala:76: Launching /usr/bin/ssh-agent 
+VBoxClient: error: No service specified. Quitting because nothing to do!
+SSH_AUTH_SOCK=/tmp/ssh-4CHD4obuXPlD/agent.811; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=831; export SSH_AGENT_PID;
+echo Agent pid 831;
+** Message: 12:20:20.885: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+
+(light-locker:816): dbind-WARNING **: 12:20:20.892: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+** Message: 12:20:20.921: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:808): WARNING **: 12:20:20.921: The directory '~/Templates' doesn't exist, ignoring it
+** Message: 12:20:20.961: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:806): WARNING **: 12:20:20.961: The directory '~/Templates' doesn't exist, ignoring it
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(lxpanel:806): GLib-GObject-CRITICAL **: 12:20:21.113: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(lxpanel:806): GLib-GObject-CRITICAL **: 12:20:21.114: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (lxpanel:806): WARNING **: 12:20:21.135: lxpanel: can't load volume plugin
+
+(lxpanel:806): GLib-GObject-CRITICAL **: 12:20:21.147: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(lxpanel:806): GLib-GObject-CRITICAL **: 12:20:21.147: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+"/opt/PhpStorm-193.5662.63/bin/phpstorm.sh" 
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+
+(java:929): dbind-WARNING **: 12:20:30.913: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(lxpanel:806): Wnck-WARNING **: 12:20:32.072: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:20:38.669: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:20:38.681: Unhandled action type _OB_WM_ACTION_UNDECORATE
+2020-03-30 12:20:39,614 [   8656]   WARN - llij.ide.plugins.PluginManager - Plugin "ReStructuredText" is incompatible (since build 193.6911 > PS-193.5662.63) 
+/usr/lib/firefox-esr/firefox-esr 
+
+(lxpanel:806): Wnck-WARNING **: 12:22:16.674: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:22:16.997: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(/usr/lib/firefox-esr/firefox-esr:1324): dconf-WARNING **: 12:22:25.860: Unable to open /var/lib/menu-xdg/dconf/profile/user: Permission denied
+
+(lxpanel:806): Wnck-WARNING **: 12:26:28.216: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:26:28.218: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:26:28.222: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:26:28.273: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:26:31.894: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:56:39.262: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:56:39.263: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:56:39.267: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:56:39.282: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:56:45.617: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:56:52.228: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:56:52.228: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:56:52.241: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:56:52.557: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:11.543: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:11.548: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:11.551: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:11.552: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:11.589: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:16.488: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:16.488: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:19.565: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:19.575: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:19.578: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:19.585: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:21.536: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:21.537: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:21.538: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:57:39.649: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 12:58:41.633: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(/usr/lib/firefox-esr/firefox-esr:1344): dconf-WARNING **: 12:59:24.731: Unable to open /var/lib/menu-xdg/dconf/profile/user: Permission denied
+
+(lxpanel:806): Wnck-WARNING **: 13:00:41.275: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:00:41.280: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:00:41.281: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:00:41.335: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:00:45.869: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:01:29.586: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:01:29.594: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:01:29.594: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:01:34.317: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:01:34.376: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:01:34.377: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:01:34.384: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:01:34.387: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:01:34.391: Unhandled action type _OB_WM_ACTION_UNDECORATE
+pcmanfm 
+
+(lxpanel:806): Wnck-WARNING **: 13:01:59.139: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:01:59.159: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:01:59.163: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:02:45.977: Unhandled action type _OB_WM_ACTION_UNDECORATE
+WebGL(0x7fec42d05000)::ForceLoseContext
+
+(lxpanel:806): Wnck-WARNING **: 13:35:40.738: Unhandled action type _OB_WM_ACTION_UNDECORATE
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout    Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+
+(lxpanel:806): Wnck-WARNING **: 13:35:49.227: Unhandled action type _OB_WM_ACTION_UNDECORATE
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout    Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+lxterminal
+
+(lxterminal:2678): dbind-WARNING **: 13:36:05.716: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(lxpanel:806): Wnck-WARNING **: 13:36:05.863: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:16.378: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:16.388: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:16.392: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:16.463: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:28.830: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:28.841: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:28.844: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:28.845: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:34.771: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:34.772: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:42.949: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:42.955: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:42.959: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:42.971: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:42.977: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:43.047: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:55.466: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:45:55.467: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:13.002: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:13.009: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:13.014: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:13.028: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.427: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.427: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.810: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.814: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.817: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.819: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.823: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.857: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.862: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.864: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.866: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.869: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.869: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.870: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.871: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.871: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.871: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.871: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.873: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.873: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.873: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.874: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:18.878: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:33.948: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:33.948: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:33.971: Unhandled action type _OB_WM_ACTION_UNDECORATE
+2020-03-30 13:46:35,816 [5164858]   WARN -    #com.jetbrains.php.PhpIndex - Completing type '#Vconn' took 955ms, visited:[#Vconn] 
+2020-03-30 13:46:35,823 [5164865]   WARN -    #com.jetbrains.php.PhpIndex - Completing type '#Vconn' took 984ms, visited:[#Vconn] 
+
+(lxpanel:806): Wnck-WARNING **: 13:46:41.728: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:41.730: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:41.738: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:41.748: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:46:45.526: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:04.734: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:04.740: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:04.752: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:04.809: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:12.313: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:12.318: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:12.323: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:12.327: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:12.334: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:13.990: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:13.990: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:13.991: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:16.232: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:16.249: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:16.255: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:18.028: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:18.028: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:18.028: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:22.984: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:22.990: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:22.994: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:22.995: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:22.996: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:53.008: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:53.008: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:53.012: Unhandled action type _OB_WM_ACTION_UNDECORATE
+2020-03-30 13:47:53,042 [5242084]   WARN - ess.util.ProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.openapi.vcs.impl.CodeSmellDetectorImpl.findCodeSmells(CodeSmellDetectorImpl.java:138) 
+
+(lxpanel:806): Wnck-WARNING **: 13:47:53.350: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:53.353: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:53.357: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:56.977: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:56.977: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:56.978: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:56.995: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:56.999: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:57.000: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:57.005: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:47:57.014: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:03.102: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:03.103: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:03.104: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:03.121: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:15.008: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:15.009: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:15.009: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:15.009: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:15.009: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:15.016: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:20.053: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:25.842: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:25.846: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:25.852: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:25.954: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:48:31.423: Unhandled action type _OB_WM_ACTION_UNDECORATE
+2020-03-30 13:48:44,818 [5293860]  ERROR - api.util.objectTree.ObjectTree - null 
+java.lang.AssertionError
+	at git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction.actionPerformed(GitBranchPopupActions.java:414)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil$1.run(ActionUtil.java:298)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:315)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAwareWithCallbacks(ActionUtil.java:289)
+	at com.intellij.ui.popup.ActionPopupStep.performAction(ActionPopupStep.java:223)
+	at com.intellij.ui.popup.ActionPopupStep.performAction(ActionPopupStep.java:213)
+	at com.intellij.ui.popup.ActionPopupStep.lambda$onChosen$2(ActionPopupStep.java:207)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:193)
+	at com.intellij.ui.popup.AbstractPopup.lambda$dispose$13(AbstractPopup.java:1434)
+	at com.intellij.util.ui.UIUtil.invokeLaterIfNeeded(UIUtil.java:2413)
+	at com.intellij.ide.IdeEventQueue.ifFocusEventsInTheQueue(IdeEventQueue.java:177)
+	at com.intellij.ide.IdeEventQueue.executeWhenAllFocusEventsLeftTheQueue(IdeEventQueue.java:129)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.doWhenFocusSettlesDown(FocusManagerImpl.java:159)
+	at com.intellij.openapi.wm.impl.IdeFocusManagerImpl.doWhenFocusSettlesDown(IdeFocusManagerImpl.java:36)
+	at com.intellij.ui.popup.AbstractPopup.dispose(AbstractPopup.java:1430)
+	at com.intellij.ui.popup.WizardPopup.dispose(WizardPopup.java:151)
+	at com.intellij.ui.popup.list.ListPopupImpl.dispose(ListPopupImpl.java:326)
+	at com.intellij.ui.popup.PopupFactoryImpl$ActionGroupPopup.dispose(PopupFactoryImpl.java:292)
+	at com.intellij.openapi.util.ObjectNode.lambda$execute$0(ObjectNode.java:104)
+	at com.intellij.openapi.util.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:183)
+	at com.intellij.openapi.util.ObjectNode.execute(ObjectNode.java:71)
+	at com.intellij.openapi.util.ObjectTree.executeAll(ObjectTree.java:133)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:123)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:119)
+	at com.intellij.ui.popup.WizardPopup.disposeAllParents(WizardPopup.java:252)
+	at com.intellij.ui.popup.WizardPopup.disposeAllParents(WizardPopup.java:254)
+	at com.intellij.ui.popup.list.ListPopupImpl.handleNextStep(ListPopupImpl.java:461)
+	at com.intellij.ui.popup.list.ListPopupImpl._handleSelect(ListPopupImpl.java:415)
+	at com.intellij.ui.popup.list.ListPopupImpl.handleSelect(ListPopupImpl.java:361)
+	at com.intellij.ui.popup.PopupFactoryImpl$ActionGroupPopup.handleSelect(PopupFactoryImpl.java:312)
+	at com.intellij.dvcs.ui.BranchActionGroupPopup.handleSelect(BranchActionGroupPopup.java:282)
+	at com.intellij.ui.popup.list.ListPopupImpl$MyMouseListener.mouseReleased(ListPopupImpl.java:526)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:298)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6651)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at com.intellij.ui.popup.list.ListPopupImpl$MyList.processMouseEvent(ListPopupImpl.java:583)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6416)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5026)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4858)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2773)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4858)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:908)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:846)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:778)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:424)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:698)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:423)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2020-03-30 13:48:44,825 [5293867]  ERROR - api.util.objectTree.ObjectTree - PhpStorm 2019.3.1  Build #PS-193.5662.63 
+2020-03-30 13:48:44,826 [5293868]  ERROR - api.util.objectTree.ObjectTree - JDK: 11.0.5; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2020-03-30 13:48:44,826 [5293868]  ERROR - api.util.objectTree.ObjectTree - OS: Linux 
+2020-03-30 13:48:49,068 [5298110]  ERROR - api.util.objectTree.ObjectTree - null 
+java.lang.AssertionError
+	at git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction.actionPerformed(GitBranchPopupActions.java:414)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil$1.run(ActionUtil.java:298)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:315)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAwareWithCallbacks(ActionUtil.java:289)
+	at com.intellij.ui.popup.ActionPopupStep.performAction(ActionPopupStep.java:223)
+	at com.intellij.ui.popup.ActionPopupStep.performAction(ActionPopupStep.java:213)
+	at com.intellij.ui.popup.ActionPopupStep.lambda$onChosen$2(ActionPopupStep.java:207)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:193)
+	at com.intellij.ui.popup.AbstractPopup.lambda$dispose$13(AbstractPopup.java:1434)
+	at com.intellij.util.ui.UIUtil.invokeLaterIfNeeded(UIUtil.java:2413)
+	at com.intellij.ide.IdeEventQueue.ifFocusEventsInTheQueue(IdeEventQueue.java:177)
+	at com.intellij.ide.IdeEventQueue.executeWhenAllFocusEventsLeftTheQueue(IdeEventQueue.java:129)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.doWhenFocusSettlesDown(FocusManagerImpl.java:159)
+	at com.intellij.openapi.wm.impl.IdeFocusManagerImpl.doWhenFocusSettlesDown(IdeFocusManagerImpl.java:36)
+	at com.intellij.ui.popup.AbstractPopup.dispose(AbstractPopup.java:1430)
+	at com.intellij.ui.popup.WizardPopup.dispose(WizardPopup.java:151)
+	at com.intellij.ui.popup.list.ListPopupImpl.dispose(ListPopupImpl.java:326)
+	at com.intellij.ui.popup.PopupFactoryImpl$ActionGroupPopup.dispose(PopupFactoryImpl.java:292)
+	at com.intellij.openapi.util.ObjectNode.lambda$execute$0(ObjectNode.java:104)
+	at com.intellij.openapi.util.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:183)
+	at com.intellij.openapi.util.ObjectNode.execute(ObjectNode.java:71)
+	at com.intellij.openapi.util.ObjectTree.executeAll(ObjectTree.java:133)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:123)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:119)
+	at com.intellij.ui.popup.WizardPopup.disposeAllParents(WizardPopup.java:252)
+	at com.intellij.ui.popup.WizardPopup.disposeAllParents(WizardPopup.java:254)
+	at com.intellij.ui.popup.list.ListPopupImpl.handleNextStep(ListPopupImpl.java:461)
+	at com.intellij.ui.popup.list.ListPopupImpl._handleSelect(ListPopupImpl.java:415)
+	at com.intellij.ui.popup.list.ListPopupImpl.handleSelect(ListPopupImpl.java:361)
+	at com.intellij.ui.popup.PopupFactoryImpl$ActionGroupPopup.handleSelect(PopupFactoryImpl.java:312)
+	at com.intellij.dvcs.ui.BranchActionGroupPopup.handleSelect(BranchActionGroupPopup.java:282)
+	at com.intellij.ui.popup.list.ListPopupImpl$MyMouseListener.mouseReleased(ListPopupImpl.java:526)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:298)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6651)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at com.intellij.ui.popup.list.ListPopupImpl$MyList.processMouseEvent(ListPopupImpl.java:583)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6416)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5026)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4858)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2773)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4858)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:908)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:846)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:778)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:424)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:698)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:423)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2020-03-30 13:48:49,071 [5298113]  ERROR - api.util.objectTree.ObjectTree - PhpStorm 2019.3.1  Build #PS-193.5662.63 
+2020-03-30 13:48:49,071 [5298113]  ERROR - api.util.objectTree.ObjectTree - JDK: 11.0.5; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2020-03-30 13:48:49,071 [5298113]  ERROR - api.util.objectTree.ObjectTree - OS: Linux 
+lxterminal
+
+(lxterminal:2827): dbind-WARNING **: 13:50:27.630: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(lxpanel:806): Wnck-WARNING **: 13:50:27.744: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:50:41.215: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:50:41.235: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:51:00.717: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:51:12.240: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:51:48.522: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:51:48.549: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:806): Wnck-WARNING **: 13:51:48.550: Unhandled action type _OB_WM_ACTION_UNDECORATE

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="914c01f8-a10d-4e33-9cf9-390b12809259" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="BruidenDb: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ProjectId" id="1Ykz9Hvkiw6jmcEcZo71uFtnI57" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/websites/student" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@4b0e6887" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="914c01f8-a10d-4e33-9cf9-390b12809259" name="Default Changelist" comment="" />
+      <created>1583501226220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583501226220</updated>
+      <workItem from="1583501227574" duration="887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="124" width="804" height="674" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583501516266">
+      <screen x="0" y="0" width="1920" height="924" />
+    </state>
+    <state x="555" y="124" width="804" height="674" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.924@0.0.1920.924" timestamp="1583501516266" />
+    <state x="743" y="220" width="428" height="481" key="FileChooserDialogImpl" timestamp="1583502116647">
+      <screen x="0" y="0" width="1920" height="924" />
+    </state>
+    <state x="743" y="220" width="428" height="481" key="FileChooserDialogImpl/0.0.1920.924@0.0.1920.924" timestamp="1583502116647" />
+    <state x="679" y="105" width="556" height="712" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1583502025266">
+      <screen x="0" y="0" width="1920" height="924" />
+    </state>
+    <state x="679" y="105" width="556" height="712" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.924@0.0.1920.924" timestamp="1583502025266" />
+    <state x="813" y="228" width="287" height="465" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1583501926239">
+      <screen x="0" y="0" width="1920" height="924" />
+    </state>
+    <state x="813" y="228" width="287" height="465" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.924@0.0.1920.924" timestamp="1583501926239" />
+  </component>
+</project>

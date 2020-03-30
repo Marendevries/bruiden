@@ -1,0 +1,11 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/student/Desktop/.idea/Desktop.iml" timestamp="1583501225989" />
+    <file path="/home/student/Desktop/.idea/misc.xml" timestamp="1583501226013" />
+    <file path="/home/student/Desktop/.idea/modules.xml" timestamp="1583501226025" />
+    <file path="/home/student/Desktop/.idea/workspace.xml" timestamp="1583501226005" />
+  </project-files>
+</conversion>

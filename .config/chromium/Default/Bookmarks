@@ -1,0 +1,68 @@
+{
+   "checksum": "50cda6ca2e31d431dff48012c43264d5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "guid": "54a9771d-52e8-470f-a652-1018158fdbb8",
+            "id": "5",
+            "name": "Debian.org",
+            "type": "url",
+            "url": "http://www.debian.org/"
+         }, {
+            "date_added": "0",
+            "guid": "e089e994-df5b-4407-9553-39259f325a63",
+            "id": "6",
+            "name": "Latest News",
+            "type": "url",
+            "url": "http://www.debian.org/News/"
+         }, {
+            "date_added": "0",
+            "guid": "84479c3a-aa4b-4e47-8852-15f01d5fe1e4",
+            "id": "7",
+            "name": "Help",
+            "type": "url",
+            "url": "http://www.debian.org/support"
+         }, {
+            "date_added": "13221766095223878",
+            "guid": "6a0c7c04-13a2-4538-a003-812f93b10038",
+            "id": "8",
+            "name": "Hello World (Student)",
+            "type": "url",
+            "url": "http://student.local/"
+         }, {
+            "date_added": "13221766121372069",
+            "guid": "ccf373ec-615a-4380-afad-7881d0535d83",
+            "id": "9",
+            "name": "Docent",
+            "type": "url",
+            "url": "http://docent.local/"
+         } ],
+         "date_added": "13221766031152597",
+         "date_modified": "13221766121372069",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13221766031152607",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13221766031152613",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,267 @@
+* {box-sizing: border-box;}
+
+body {
+  margin: 0;
+  font-family: "ink";
+  font-style: italic;
+  
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: rgb(209, 202, 202);
+  margin-left: 6px;
+  margin-right: 6px;
+  border-radius: 6px; 
+  font-weight: bold;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 6px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: rgb(248, 183, 2) ;
+  color: white;
+}
+
+.topnav .login-container {
+  float: right;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+  width:120px;
+  border-radius: 6px;
+}
+
+.topnav .login-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  margin-left: 6px;
+  background-color: rgb(248, 183, 2);
+  color: white;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  
+}
+
+.topnav .login-container button:hover {
+  background-color: gray;
+  
+}
+
+@media screen and (max-width: 600px) {
+  .topnav .login-container {
+    float: none;
+  }
+  .topnav a, .topnav input[type=text], .topnav .login-container button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;  
+  }
+}
+
+#HeaderImg {
+    text-align: center;
+    width:100%;
+    height: 100%;
+   
+}
+
+
+.headersubmit
+{
+    margin-top: 20px;
+    text-align: center;
+    height: 80px;
+    background: rgb(248, 183, 2);
+    color: #fff;
+    font-weight: bold;
+    line-height: 80px;
+    border-radius: 6px;
+}
+.form-content
+{
+    padding: 5%;
+    border: 1px solid #ced4da;
+    margin-bottom: 2%;
+    border-radius: 6px;
+ 
+    
+}
+.form-control{
+    border-radius:1.5rem;
+}
+
+.submitknop
+{
+    border:none;
+    border-radius:1.5rem;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    background: rgb(248, 183, 2);
+    color: #fff;
+}
+
+#LoginKnop {
+border:none;
+border-radius:1.5rem;
+padding: 1%;
+width: 20%;
+cursor: pointer;
+background: rgb(248, 183, 2);
+color: #fff;
+}
+
+.CurrentPage {
+  background: rgb(248, 183, 2);
+  color: #fff;
+  border-radius: 6px;
+}
+
+.headerlogin {
+    margin-top: 20px;
+    text-align: center;
+    height: 80px;
+    background: rgb(248, 183, 2);
+    color: #fff;
+    font-weight: bold;
+    line-height: 80px;
+    border-radius: 6px;
+}
+
+#Vraagvak {
+  height: 170px;
+  width: 990px;
+  margin-left: 20px;
+  border-radius: 6px;
+}
+
+#VerzendKnop {
+  border:none;
+  border-radius:1.5rem;
+  padding: 1%;
+  width: 20%;
+  cursor: pointer;
+  background: rgb(248, 183, 2);
+  color: #fff;
+}
+
+.InvulVerpl {
+  text-align: center;
+}
+
+#Vraagkeuze {
+  width: 990px;
+  margin-left: 20px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.ContactVeld {
+  border-radius: 6px;
+  border-color: black;
+  border-width: thin;
+  margin-left: 5px;
+  padding-left: 5px;
+}
+
+.reorder-up {
+  color: rgb(162, 199, 162);
+  text-shadow: 1px 1px 1px #ccc;
+  font-size: 1.5em;
+}
+
+.reorder-down {
+ color: #F0C1C6;
+ text-shadow: 1px 1px 1px #ccc;
+ font-size: 1.5em;
+}
+
+.delete {
+  color:darkgray;
+  text-shadow: 1px 1px 1px #ccc;
+  font-size: 1.5em;
+  
+}
+
+#LijstBruidspaar {
+  font-size: 20px;
+  border-width: thin;
+  border-radius: 6px;
+  padding-top: 10px;
+  border: 1px solid black;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+#HeaderBruidLijst {
+  margin-top: 20px;
+  text-align: center;
+  height: 80px;
+  background: rgb(248, 183, 2);
+  color: #fff;
+  font-weight: bold;
+  line-height: 80px;
+  border-radius: 6px;
+  
+}
+
+#comment-body {
+margin-bottom: 10px;
+margin-left: 22px;
+border-radius: 6px;
+text-align: center;
+
+}
+
+.card-title {
+  color: rgb(248, 183, 2)
+}
+
+.card-img-top {
+  text-align: center;
+  width: 275px;
+  height: 275px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.card-img-top2 {
+  text-align: center;
+  width: 275px;
+  height: 275px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+#product{
+  border: 1px solid black;
+}

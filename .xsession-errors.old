@@ -1,0 +1,10 @@
+Xsession: X session started for student at Fri 27 Mar 2020 05:17:12 PM CET
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/student/.Xauthority
+localuser:student being added to access control list
+VBoxClient: error: No service specified. Quitting because nothing to do!
+** Message: 17:17:12.357: main.vala:101: Session is LXDE
+** Message: 17:17:12.357: main.vala:102: DE is LXDE
+** Message: 17:17:12.378: main.vala:133: log directory: /home/student/.cache/lxsession/LXDE
+** Message: 17:17:12.378: main.vala:134: log path: /home/student/.cache/lxsession/LXDE/run.log

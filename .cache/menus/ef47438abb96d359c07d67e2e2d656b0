@@ -1,0 +1,320 @@
+1.2
+lxde-applications.menu
+15
+D/home/student/.local/share/desktop-directories
+D/usr/local/share/desktop-directories
+D/usr/share/desktop-directories
+D/usr/share/gdm/desktop-directories
+D/var/lib/menu-xdg/desktop-directories
+D/home/student/.local/share/applications
+D/usr/local/share/applications
+D/usr/share/applications
+D/usr/share/gdm/applications
+D/var/lib/menu-xdg/applications
+D/etc/xdg/menus/applications-merged
+D/home/student/.config/menus/applications-merged
+F/home/student/.config/menus/lxde-applications.menu
+F/etc/xdg/menus/lxde-applications.menu
+F/etc/xdg/menus/debian-menu.menu
+MATE;
++Applications
+Applications
+Applications
+applications-other
+lxde-menu-applications.directory
+2
+0
++Accessories
+Accessories
+Desktop accessories
+applications-accessories
+lxde-utility.directory
+2
+0
+-galculator.desktop
+Galculator
+Perform simple and scientific calculations
+galculator
+
+7
+
+galculator
+2
+0
+
+
+Utility
+
+-gpicview.desktop
+Image Viewer
+View your images easily
+gpicview
+
+7
+Image Viewer
+gpicview %f
+2
+0
+
+
+Graphics;Utility;Core;GTK;Viewer;RasterGraphics;2DGraphics;Photography
+graphics,pictures,viever,photography
+-mousepad.desktop
+Mousepad
+Simple Text Editor
+accessories-text-editor
+
+7
+Text Editor
+mousepad %F
+2
+0
+
+
+Utility;TextEditor;GTK
+
+-vim.desktop
+Vim
+Edit text files
+gvim
+
+7
+Text Editor
+vim %F
+1
+0
+vim
+
+Utility;TextEditor
+Text,editor
+-code.desktop
+Visual Studio Code
+Code Editing. Redefined.
+/usr/share/pixmaps/com.visualstudio.code.png
+
+7
+Text Editor
+/usr/share/code/code --no-sandbox --unity-launch %F
+0
+0
+
+
+Utility;TextEditor;Development;IDE
+vscode
+-xarchiver.desktop
+Xarchiver
+A GTK+ only archive manager
+xarchiver
+
+7
+Archive manager
+xarchiver %f
+2
+0
+
+
+GTK;Archiving;Compression;Utility
+GTK,android,archiver,archiving,comic book,compression,front end,frontend,7-zip,7z,7za,7zip,7zr,apk,ar,arj,bunzip2,bz2,bzip2,cbz,compress,cpio,deb,epub,gtar,gunzip,gz,gzip,jar,lha,lrz,lrzip,lsar,lz,lz4,lzh,lzip,lzma,lzo,lzop,oxt,rar,rar4,rar5,rpm,tar,unar,unarchiver,unarj,unrar,unzip,xpi,xz,zip,zst,Zstandard,zstd
+
++Internet
+Internet
+Programs for Internet access such as web and email
+applications-internet
+lxde-network.directory
+2
+0
+-chromium.desktop
+Chromium Web Browser
+Access the Internet
+chromium
+
+7
+Web Browser
+/usr/bin/chromium %U
+2
+0
+
+
+Network;WebBrowser
+
+-firefox-esr.desktop
+Firefox ESR
+Browse the World Wide Web
+firefox-esr
+
+7
+Web Browser
+/usr/lib/firefox-esr/firefox-esr %u
+2
+0
+
+
+Network;WebBrowser
+
+
++Development
+Programming
+Tools for software development
+applications-development
+lxde-development.directory
+2
+0
+-phpstorm.desktop
+PHP Storm 2019
+
+"/opt/PhpStorm-193.5662.63/bin/phpstorm.png"
+
+7
+"PHP Integrated Development Environment"
+"/opt/PhpStorm-193.5662.63/bin/phpstorm.sh" %u
+2
+0
+
+
+Development;Programming
+idea,PHP,PHP Storm
+-code.desktop
+Visual Studio Code
+Code Editing. Redefined.
+/usr/share/pixmaps/com.visualstudio.code.png
+
+7
+Text Editor
+/usr/share/code/code --no-sandbox --unity-launch %F
+0
+0
+
+
+Utility;TextEditor;Development;IDE
+vscode
+
++System
+System Tools
+System configuration and monitoring
+applications-system
+lxde-system-tools.directory
+2
+0
+-pcmanfm.desktop
+File Manager PCManFM
+Browse the file system and manage the files
+system-file-manager
+
+7
+File Manager
+pcmanfm %U
+2
+0
+
+
+System;FileTools;FileManager;Utility;Core;GTK
+
+-lxterminal.desktop
+LXTerminal
+Use the command line
+lxterminal
+
+7
+Terminal
+lxterminal
+0
+0
+lxterminal
+
+GTK;System;TerminalEmulator
+console,command line,execute
+
+-
++DesktopSettings
+Preferences
+Personal preferences
+preferences-desktop
+lxde-settings.directory
+2
+0
+-lxappearance.desktop
+Customize Look and Feel
+Customizes look and feel of your desktop and applications
+preferences-desktop-theme
+
+7
+Customize Look and Feel
+lxappearance
+2
+-47
+
+
+GTK;Settings;DesktopSettings;X-LXDE-Settings
+windows,preferences,settings,theme,style,appearance
+-pcmanfm-desktop-pref.desktop
+Desktop Preferences
+Change desktop wallpapers and behavior of desktop manager
+user-desktop
+
+7
+
+pcmanfm --desktop-pref
+2
+-47
+
+
+Settings;GTK;DesktopSettings;X-LXDE-Settings
+
+-lxsession-edit.desktop
+Desktop Session Settings
+Manage applications loaded in desktop session
+preferences-desktop
+
+7
+
+lxsession-edit
+0
+1
+
+
+GTK;Settings;DesktopSettings;X-LXDE-Settings
+
+-lxinput.desktop
+Keyboard and Mouse
+Configure keyboard, mouse, and other input devices
+input-keyboard
+
+7
+
+lxinput
+2
+-47
+
+
+GTK;Settings;HardwareSettings;X-LXDE-Settings
+
+-lxrandr.desktop
+Monitor Settings
+Change screen resolution and configure external monitors
+video-display
+
+7
+
+lxrandr
+0
+-47
+
+
+GTK;Settings;HardwareSettings;X-LXDE-Settings
+screen,display,tv,extend,projector,xrandr,refresh rate,position,enable,disable
+-lxhotkey-gtk.desktop
+Setup Hot Keys
+View and change Window Manager global shortcuts
+preferences-desktop-keyboard
+
+7
+
+lxhotkey --gui=gtk
+2
+-47
+
+
+DesktopSettings;Settings;Core;GTK
+hotkey,shortcut,system,settings
+
+

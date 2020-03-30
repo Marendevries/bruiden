@@ -1,0 +1,8 @@
+[2019-12-25 17:47:59.772] [sharedprocess] [info] main {"machineId":"a74b791b0bb68f83e0af1b1b13a478c5edde05d016632a3caf7de00cd18e2694","windowId":2}
+[2019-12-25 17:48:39.747] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-12-25 17:49:48.842] [sharedprocess] [info] Installing extension: felixfbecker.php-debug
+[2019-12-25 17:49:49.316] [sharedprocess] [info] Downloaded extension: felixfbecker.php-debug /tmp/92b50743-6e14-4eaa-be5c-c0f299a70c47
+[2019-12-25 17:49:53.049] [sharedprocess] [info] Extracted extension to /home/student/.vscode/extensions/.felixfbecker.php-debug-1.13.0: felixfbecker.php-debug
+[2019-12-25 17:49:53.057] [sharedprocess] [info] Renamed to /home/student/.vscode/extensions/felixfbecker.php-debug-1.13.0
+[2019-12-25 17:49:53.064] [sharedprocess] [info] Installation completed. felixfbecker.php-debug
+[2019-12-25 17:49:53.098] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-debug
